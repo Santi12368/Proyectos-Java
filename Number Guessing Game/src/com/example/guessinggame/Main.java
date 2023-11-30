@@ -1,3 +1,7 @@
+// In this game you have to guess a number between 1 and 30, you have 5 tries and the game will tell you if your number is higher or lower than the one you have to guess.
+// The program will first ask for your name, and then ask if you want to play. After you say yes, the game begins.
+// You win by guessing the number, you lose if you don't guess the number after 5 tries.
+
 package com.example.guessinggame;
 
 import java.util.Locale;
